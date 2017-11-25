@@ -1,0 +1,4 @@
+﻿  Sudoku.cpp
+c:\users\johnn\source\repos\sudoku\sudoku\sudoku.cpp(87): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Sudoku.vcxproj -> C:\Users\johnn\source\repos\Sudoku\Debug\Sudoku.exe
+  Sudoku.vcxproj -> C:\Users\johnn\source\repos\Sudoku\Debug\Sudoku.pdb (Partial PDB)
